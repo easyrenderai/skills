@@ -1,0 +1,142 @@
+[
+  {
+    "id": "furniture",
+    "label": "Furniture and home",
+    "keywords": [
+      "chair",
+      "sofa",
+      "couch",
+      "armchair",
+      "table",
+      "desk",
+      "bench",
+      "stool",
+      "bed",
+      "shelf",
+      "cabinet",
+      "lamp",
+      "rug",
+      "silla",
+      "sillon",
+      "sillón",
+      "mesa",
+      "escritorio",
+      "banco",
+      "cama",
+      "estanteria",
+      "estantería",
+      "lampara",
+      "lámpara",
+      "alfombra"
+    ],
+    "file": "skills/furniture/SKILL.md"
+  },
+  {
+    "id": "jewelry",
+    "label": "Jewelry and watches",
+    "keywords": [
+      "ring",
+      "necklace",
+      "bracelet",
+      "earring",
+      "watch",
+      "pendant",
+      "jewel",
+      "anillo",
+      "collar",
+      "pulsera",
+      "pendiente",
+      "reloj",
+      "joya"
+    ],
+    "file": "skills/jewelry/SKILL.md"
+  },
+  {
+    "id": "apparel",
+    "label": "Apparel and footwear",
+    "keywords": [
+      "shoe",
+      "sneaker",
+      "boot",
+      "jacket",
+      "shirt",
+      "hoodie",
+      "dress",
+      "hat",
+      "cap",
+      "zapato",
+      "zapatilla",
+      "bota",
+      "chaqueta",
+      "camiseta",
+      "sudadera",
+      "vestido",
+      "gorra"
+    ],
+    "file": "skills/apparel/SKILL.md"
+  },
+  {
+    "id": "bags",
+    "label": "Bags and leather goods",
+    "keywords": [
+      "bag",
+      "backpack",
+      "wallet",
+      "purse",
+      "handbag",
+      "suitcase",
+      "bolso",
+      "mochila",
+      "cartera",
+      "maleta",
+      "billetera"
+    ],
+    "file": "skills/bags/SKILL.md"
+  },
+  {
+    "id": "electronics",
+    "label": "Electronics",
+    "keywords": [
+      "phone",
+      "laptop",
+      "speaker",
+      "headphone",
+      "camera",
+      "keyboard",
+      "console",
+      "charger",
+      "tablet",
+      "movil",
+      "móvil",
+      "portatil",
+      "portátil",
+      "altavoz",
+      "auricular",
+      "camara",
+      "cámara",
+      "teclado",
+      "cargador"
+    ],
+    "file": "skills/electronics/SKILL.md"
+  },
+  {
+    "id": "glass",
+    "label": "Glass and bottles",
+    "keywords": [
+      "glass",
+      "bottle",
+      "vase",
+      "jar",
+      "cup",
+      "mug",
+      "perfume",
+      "vaso",
+      "botella",
+      "jarron",
+      "jarrón",
+      "taza",
+      "frasco"
+    ],
+    "file": "skills/glass/SKILL.md"
+  }
+]
