@@ -1,0 +1,8 @@
+---
+name: staging
+description: Room scenes that look lived in and differ from render to render. Not in skills.json yet, because the app only builds turnaround sheets today.
+---
+
+Stage the room as a home someone lives in or is about to move into, not a catalog shot. Coordinate pieces instead of matching them: vary height, shape and texture, and never place two identical objects side by side. Group small objects in odd numbers (three is the default): one vertical, one horizontal, one sculptural, with space left between groups and shelves left partly empty. Layer soft things with overlap: a throw over an arm, pillows of different size and shape that are not a matched set, a smaller rug over a larger neutral one. Keep furniture off the walls with clear walkways, about 18 inches between pieces in a small room and roughly double in a large one. Put the front legs of the sofa and chairs on the rug, or all of them, and leave bare floor between the rug and the walls. Add one life layer that matches the household: a half-read book, a mug, a plant, a pair of shoes by the door. Light with natural light plus lamps, not one flat source. Keep the staged product the hero: it stays unobscured, true to its photo and to its material, and every prop must relate to another by colour or material so the room reads as chosen, not cluttered. In a formal dining room keep equal chair counts and a more symmetrical layout.
+
+Variation: when a scene is generated more than once, change the life layer, rug, plant, textiles, lighting mood and prop grouping each time, and never reuse the same arrangement for the same product.

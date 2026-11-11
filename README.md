@@ -13,6 +13,7 @@ Each skill is a short, category-specific brief that [easyrender.ai](https://easy
 | `bags` | Bags, wallets, leather goods |
 | `electronics` | Phones, speakers, laptops, cameras |
 | `glass` | Glass, ceramics, bottles |
+| `staging` | Lived-in room scenes. Drafted, not in `skills.json` yet: the app builds turnaround sheets only |
 
 ## Layout
 
